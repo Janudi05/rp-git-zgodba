@@ -1,5 +1,1 @@
-Število 42 je odgovor na vprašanje o vesolju, življenju in sploh vsem.
-
-
-
-
+42
